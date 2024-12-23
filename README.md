@@ -7,7 +7,7 @@
 
 Check out the live demo of **GarhBhoj** on Vercel:
 
-[Live Demo]([garh-bhoj.vercel.app](https://garh-bhoj-7pddywl3j-avantikas-projects-f8b7a25a.vercel.app/))
+[Live Demo](https://garh-bhoj-7pddywl3j-avantikas-projects-f8b7a25a.vercel.app/)
 
 ## Key Features
 - **Responsive Design:** Mobile-first and optimized for all devices using **Bootstrap 5**.

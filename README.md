@@ -1,4 +1,4 @@
-# GarhBhoj - Food Website
+#  Food Website
 
 ## Key Features
 - **Responsive Design:** Mobile-first and optimized for all devices using **Bootstrap 5**.

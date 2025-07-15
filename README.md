@@ -8,7 +8,7 @@
 
 
 
-[Live Demo](https://greens-and-grains-gmyffly6y-avantikas-projects-f8b7a25a.vercel.app/)
+[Live Demo](https://g-and-g-avantikas-projects-f8b7a25a.vercel.app/)
 
 
 ## Demo screenshots

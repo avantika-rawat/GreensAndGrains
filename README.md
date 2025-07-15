@@ -8,8 +8,5 @@
 
 
 ## Demo screenshots
-![Screenshot (389)](https://github.com/user-attachments/assets/b09dff15-5ead-4835-ab30-ec3b44c252ab)
 
-![Screenshot (390)](https://github.com/user-attachments/assets/a5ed1d1c-3f77-4711-bdaa-b9e4f8d2b0e6)
-
-![Screenshot (391)](https://github.com/user-attachments/assets/8c92bd1c-2e2f-4595-8da2-dfc91e4c3e6f)
+<img width="1914" height="964" alt="Screenshot (682)" src="https://github.com/user-attachments/assets/d52614c6-22fd-4c6a-add8-bce0928afb1e" />

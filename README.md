@@ -1,10 +1,14 @@
-#  Food Website
+#  Greens&Grains - A Food Website
 
 ## Key Features
 - **Responsive Design:** Mobile-first and optimized for all devices using **Bootstrap 5**.
 - **Carousel:** Dynamic carousel for displaying customer testimonials.
 - **Interactive UI:** Engaging user interface with smooth animations and transitions.
 - **Fast Loading:** Deployed on **Vercel** for fast and reliable hosting.
+
+
+
+[Live Demo](https://greens-and-grains-gmyffly6y-avantikas-projects-f8b7a25a.vercel.app/)
 
 
 ## Demo screenshots

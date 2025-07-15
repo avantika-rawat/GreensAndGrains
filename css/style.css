@@ -1,4 +1,5 @@
 
+
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 
@@ -61,12 +62,6 @@ body{
 
 ::-webkit-scrollbar-thumb{
     background: var(--primary-color);
-}
-
-
-.logo-img{
-height: 100px;
-width: 100px;
 }
 
 
@@ -194,9 +189,8 @@ p{
 }
 
 .navigation-wrap .container a img{
-    height: 5rem;
-    margin-top: 0;
-    width: 10rem;
+    height: 4.5rem;
+    width: 8rem;
 }
 
 .navigation-wrap .nav-item{

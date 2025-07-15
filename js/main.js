@@ -1,3 +1,4 @@
+
 //scroll bar 
 let nav = document.querySelector(".navigation-wrap");
 window.onscroll = function(){

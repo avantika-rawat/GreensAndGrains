@@ -4,11 +4,11 @@
 - **Responsive Design:** Mobile-first and optimized for all devices using **Bootstrap 5**.
 - **Carousel:** Dynamic carousel for displaying customer testimonials.
 - **Interactive UI:** Engaging user interface with smooth animations and transitions.
-- **Fast Loading:** Deployed on **Vercel** for fast and reliable hosting.
+- **Fast Loading:** Deployed on **Netlify** for fast and reliable hosting.
 
 
 
-[Live Demo](https://g-and-g-avantikas-projects-f8b7a25a.vercel.app/)
+[Live Demo](https://greens-and-grainss.netlify.app/)
 
 
 ## Demo screenshots
